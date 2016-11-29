@@ -1,1 +1,0 @@
-/Users/jinqiu/.dotfiles/bullet-train/bullet-train.zsh-theme
